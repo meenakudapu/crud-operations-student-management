@@ -40,4 +40,5 @@ This Student Management System allows users to perform CRUD operations on studen
 
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request.
 
+![image](https://github.com/meenakudapu/crud-operations-student-management/assets/160092073/9c4ec43a-9ff2-441f-9064-73f752d28b1e)
 
