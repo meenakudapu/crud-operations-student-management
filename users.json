@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "krishna",
+      "branch": "CSE",
+      "email": "ks@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "maria",
+      "branch": "AIML-A ",
+      "email": "k@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "anne",
+      "branch": "IT",
+      "email": "w@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    margin-bottom: 20px;
+    background-color: rgb(153, 119, 119);
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    background-color: rgb(238, 204, 208);
+    padding: 8px;
+    text-align: center;
+    transition: background-color 0.3s ease; /* Adding transition */
+}
+
+th {
+    background-color: #fcfbb6;
+}
+
+/* Hover styles */
+th:hover,
+td:hover {
+    background-color: #45c4f7; /* Change to your preferred hover color */
+}

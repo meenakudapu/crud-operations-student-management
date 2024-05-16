@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Operations</title>
+
+    <script src="crud2.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    
+
+</head>
+<body>
+    <h2>CRUD Operations</h2>
+
+    <div id="inputForm">
+        <label for="id">ID:</label>
+        <input type="text" id="id">
+        <label for="name">Name:</label>
+        <input type="text" id="name">
+        <label for="branch">Branch:</label>
+        <input type="text" id="branch">
+        <label for="email">Email:</label>
+        <input type="email" id="email">
+        
+        <!-- <button onclick="getData()">Fetch</button> -->
+        <button onclick="createData()">Submit</button>
+   
+    </div>
+     <h2></h2>
+     
+    <div id="userData"></div>
+   
+</body>
+</html>
